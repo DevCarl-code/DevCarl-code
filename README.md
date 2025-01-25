@@ -4,8 +4,7 @@
 
 - 🤔 Explorando novas tecnologias e desenvolvendo interfaces.
 - 🎓 Estudando {Análise e Desenvolvimento de Sistemas} no {UNINASSAU}.
-- 💼 Trabalhando como {stack em que você trabalhar} na {empresa}.
-- 🌱 Aprendendo mais sobre {tecnologias que você está aprendendo}.
+- 🌱 Aprendendo mais sobre {JS , REACT E ANGULAR}.
 
 ## Minhas Skills
 
