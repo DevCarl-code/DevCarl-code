@@ -4,7 +4,7 @@
 
 - 🤔 Explorando novas tecnologias e desenvolvendo interfaces.
 - 🎓 Estudando {Análise e Desenvolvimento de Sistemas} no {UNINASSAU}.
-- 🌱 Aprendendo mais sobre {JS , REACT E ANGULAR}.
+- 🌱 Aprendendo mais sobre {Js , React.js E Angular}.
 
 ## Minhas Skills
 
