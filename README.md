@@ -31,5 +31,5 @@
 
 ## Onde me encontrar
 
-[![Linkedin](https://img.shields.io/badge/-carlosgabriel-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/carlosgabrielferreira/)](https://www.linkedin.com/in/carlosgabrielferreira/)
+[![Linkedin](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/carlosgabrielferreira/)](https://www.linkedin.com/in/carlosgabrielferreira/)
 [![GitHub](https://img.shields.io/github/followers/carlos?label=follow&style=social)](https://github.com/DevCarl-code)
