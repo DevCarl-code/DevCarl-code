@@ -4,15 +4,18 @@
 
 - 🤔 Explorando novas tecnologias e desenvolvendo interfaces.
 - 🎓 Estudando {Análise e Desenvolvimento de Sistemas} no {UNINASSAU}.
-- 🌱 Aprendendo mais sobre {Js , React.js E Angular}.
+- 🌱 Aprendendo mais sobre {}.
 
 ## Minhas Skills
 
-**Aplicações e dados**
+**Stacks**
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+![JAVA](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+
+
 
 **Versionamento**
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
