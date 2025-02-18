@@ -4,7 +4,7 @@
 
 - 🤔 Explorando novas tecnologias e desenvolvendo interfaces.
 - 🎓 Estudando {Análise e Desenvolvimento de Sistemas} no {UNINASSAU}.
-- 🌱 Aprendendo mais sobre {}.
+- 🌱 Aprendendo mais sobre {Back-End}.
 
 
 **Stacks**
